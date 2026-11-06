@@ -1,0 +1,6 @@
+name "flatrate-math"
+description "Subscription-vs-hire arithmetic for flat-rate dev subscriptions"
+authors "James Verlander"
+homepage "https://www.poketdev.com"
+license "MIT"
+targetType "library"
